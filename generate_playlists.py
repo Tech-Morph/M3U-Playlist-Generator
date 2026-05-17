@@ -29,6 +29,9 @@ REGION_MAP = {
 
 TOP_REGIONS = ['United States', 'Canada']
 
+# Only generate playlists for US and CA regions
+ENABLED_REGIONS = ['us', 'ca']
+
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
@@ -109,13 +112,15 @@ def generate_pluto_m3u():
     data = fetch_url('https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/PlutoTV/.channels.json.gz', is_json=True, is_gzipped=True)
     if not data or 'regions' not in data: return
 
-    for region in list(data['regions'].keys()) + ['all']:
+    for region in ENABLED_REGIONS + ['all']:
         is_all = region == 'all'
         output_lines = [f'#EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/{region}.xml.gz"\n']
         channels = {}
 
         if is_all:
             for r_code, r_data in data['regions'].items():
+                if r_code not in ENABLED_REGIONS:
+                    continue
                 country_name = REGION_MAP.get(r_code.lower(), r_code.upper())
                 for c_id, c_info in r_data.get('channels', {}).items():
                     channels[f"{c_id}-{r_code}"] = {
@@ -162,16 +167,23 @@ def generate_plex_m3u():
     data = fetch_url('https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/Plex/.channels.json.gz', is_json=True, is_gzipped=True)
     if not data or 'channels' not in data: return
     found_regions = set()
-    for ch in data['channels'].values(): found_regions.update(ch.get('regions', []))
+    for ch in data['channels'].values(): 
+        for region in ch.get('regions', []):
+            if region in ENABLED_REGIONS:
+                found_regions.add(region)
     for region in list(found_regions) + ['all']:
         token = get_anonymous_token(region if region != 'all' else 'us')
         if not token: continue
         output_lines = [f'#EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/Plex/{region}.xml.gz"\n']
         channel_list = []
         for c_id, ch in data['channels'].items():
-            if region == 'all' or region in ch.get('regions', []):
-                group = REGION_MAP.get(region.lower(), region.upper()) if region != 'all' else 'Plex'
-                channel_list.append((group, ch['name'].lower(), format_extinf(c_id, c_id, ch.get('chno'), ch['name'], ch.get('logo', ''), group, ch['name']), f"https://epg.provider.plex.tv/library/parts/{c_id}/?X-Plex-Token={token}\n"))
+            if region == 'all':
+                if any(r in ENABLED_REGIONS for r in ch.get('regions', [])):
+                    group = 'Plex'
+                    channel_list.append((group, ch['name'].lower(), format_extinf(c_id, c_id, ch.get('chno'), ch['name'], ch.get('logo', ''), group, ch['name']), f"https://epg.provider.plex.tv/library/par[...]\n"))
+            elif region in ch.get('regions', []):
+                group = REGION_MAP.get(region.lower(), region.upper())
+                channel_list.append((group, ch['name'].lower(), format_extinf(c_id, c_id, ch.get('chno'), ch['name'], ch.get('logo', ''), group, ch['name']), f"https://epg.provider.plex.tv/library/par[...]\n"))
         if channel_list:
             channel_list.sort(key=lambda x: (0 if x[0] in TOP_REGIONS else 1, x[1]))
             for _, _, extinf, url in channel_list: output_lines.extend([extinf, url])
@@ -182,13 +194,15 @@ def generate_samsungtvplus_m3u():
     if not data or 'regions' not in data: return
     slug_template = data.get('slug', '{id}.m3u8')
 
-    for region in list(data['regions'].keys()) + ['all']:
+    for region in ENABLED_REGIONS + ['all']:
         is_all = region == 'all'
         output_lines = [f'#EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/{region}.xml.gz"\n']
         channels = {}
 
         if is_all:
             for r_code, r_info in data['regions'].items():
+                if r_code not in ENABLED_REGIONS:
+                    continue
                 country_name = REGION_MAP.get(r_code.lower(), r_code.upper())
                 for c_id, c_info in r_info.get('channels', {}).items():
                     channels[f"{c_id}-{r_code}"] = {
