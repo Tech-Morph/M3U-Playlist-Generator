@@ -82,3 +82,15 @@ If you want to modify the regions or script logic:
 Support these services by visiting their official sites:
 [Pluto TV](https://pluto.tv), [Plex](https://www.plex.tv), [Samsung TV Plus](https://www.samsungtvplus.com), [Tubi TV](https://tubitv.com), [Roku](https://therokuchannel.roku.com/)
 
+---
+
+## 📝 Credits
+
+**Original Creator:** [BuddyChewChew](https://github.com/BuddyChewChew) - Original repository: [app-m3u-generator](https://github.com/BuddyChewChew/app-m3u-generator)
+
+This fork has been modified to support US and CA region filtering only. Thanks to the original creator for the excellent foundation and implementation of this M3U playlist generator!
+
+**Special Thanks:** 
+- [matthuisman](https://github.com/matthuisman) for maintaining [i.mjh.nz](https://i.mjh.nz) - the primary source for channel data
+- The IPTV and FAST streaming community for their continuous support and feedback
+
