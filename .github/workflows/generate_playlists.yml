@@ -33,11 +33,10 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Install Dependencies
+      - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          # Added urllib3 as it's required by your script's SSL configuration
-          pip install requests beautifulsoup4 lxml urllib3
+          pip install "requests[socks]" beautifulsoup4 lxml urllib3
 
       - name: Run Playlist Generation Script
         run: python generate_playlists.py
