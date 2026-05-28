@@ -25,6 +25,8 @@ https://epg.provider.plex.tv/library/par[...]
 https://epg.provider.plex.tv/library/par[...]
 #EXTINF:-1 channel-id="6a1610bebdf296985fd95603-6674b595f04cf4bb9233c914" tvg-id="6a1610bebdf296985fd95603-6674b595f04cf4bb9233c914" tvg-chno="" tvg-name="A Touch of Frost" tvg-logo="https://provider-static.plex.tv/epg/cms/production/43848ac4-62a9-4cdc-ace0-e15661a2e748/FilmRise_TouchOfFrostA_Logo_WhiteRDX.png" group-title="Plex",A Touch of Frost
 https://epg.provider.plex.tv/library/par[...]
+#EXTINF:-1 channel-id="6a1610bebdf296985fd95603-6a024c8e981d28c38fb16f21" tvg-id="6a1610bebdf296985fd95603-6a024c8e981d28c38fb16f21" tvg-chno="" tvg-name="A&E Alaska State Troopers" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4269e6c2-6949-4acb-a767-dae9faff021f/AlaskaStateTroopers_channel_logo_white_1500x1000.png" group-title="Plex",A&E Alaska State Troopers
+https://epg.provider.plex.tv/library/par[...]
 #EXTINF:-1 channel-id="6a1610bebdf296985fd95603-5f74cf7effbe690040689f41" tvg-id="6a1610bebdf296985fd95603-5f74cf7effbe690040689f41" tvg-chno="" tvg-name="A&E Crime 360" tvg-logo="https://provider-static.plex.tv/epg/cms/production/06c3d1f2-d57d-438d-a589-049a07abc5a0/AE_Crime_360_color_WHT_TXT.png" group-title="Plex",A&E Crime 360
 https://epg.provider.plex.tv/library/par[...]
 #EXTINF:-1 channel-id="6a1610bebdf296985fd95603-698a79b4c2d4abeac5f2ce1f" tvg-id="6a1610bebdf296985fd95603-698a79b4c2d4abeac5f2ce1f" tvg-chno="" tvg-name="A&E Live PD Greatest Shifts" tvg-logo="https://provider-static.plex.tv/epg/cms/production/fd548cf2-fcba-4c23-80cb-65a80bdeaad4/LivePD_Greatest_Shifts_channel_logo_4c_1500x1000.png" group-title="Plex",A&E Live PD Greatest Shifts
@@ -969,6 +971,8 @@ https://epg.provider.plex.tv/library/par[...]
 https://epg.provider.plex.tv/library/par[...]
 #EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-66f6b6baac1a1890ef197a4b" tvg-id="647f8d22a2fc3fadb4721685-66f6b6baac1a1890ef197a4b" tvg-chno="" tvg-name="Hunter" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2e34b413-32fc-4600-8b29-94562670814c/Hunter_Logo_Dark.png" group-title="Plex",Hunter
 https://epg.provider.plex.tv/library/par[...]
+#EXTINF:-1 channel-id="6a1610bebdf296985fd95603-6a10ad97b05301ef36a6a8e6" tvg-id="6a1610bebdf296985fd95603-6a10ad97b05301ef36a6a8e6" tvg-chno="" tvg-name="I Shouldn't Be Alive" tvg-logo="https://provider-static.plex.tv/epg/cms/production/048549fe-9723-418a-be64-e06a2901d377/IShouldntBeAlive_Logo_White_1500x1000_-_Harry_Marshall.png" group-title="Plex",I Shouldn't Be Alive
+https://epg.provider.plex.tv/library/par[...]
 #EXTINF:-1 channel-id="6a1610bebdf296985fd95603-666e1820ce73ed6023b55a11" tvg-id="6a1610bebdf296985fd95603-666e1820ce73ed6023b55a11" tvg-chno="" tvg-name="Ice Pilots NWT" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2c49fafe-3ddd-443d-bdaa-c2ad358146cf/channel_logo_1500x1000_light.png.png" group-title="Plex",Ice Pilots NWT
 https://epg.provider.plex.tv/library/par[...]
 #EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-666e1820ce73ed6023b55a11" tvg-id="647f8d22a2fc3fadb4721685-666e1820ce73ed6023b55a11" tvg-chno="" tvg-name="Ice Pilots NWT" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2c49fafe-3ddd-443d-bdaa-c2ad358146cf/channel_logo_1500x1000_light.png.png" group-title="Plex",Ice Pilots NWT
@@ -1029,6 +1033,10 @@ https://epg.provider.plex.tv/library/par[...]
 https://epg.provider.plex.tv/library/par[...]
 #EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-61f0489a3f2259f988094ddb" tvg-id="647f8d22a2fc3fadb4721685-61f0489a3f2259f988094ddb" tvg-chno="" tvg-name="Journy" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7fb89d72-5b7f-4814-a1fb-ac688ca7f03d/US_STVP_JOURNY_Logo_1248x400_Colour_ForDarkBG_Primary_-_Brett_ShawRDX.png" group-title="Plex",Journy
 https://epg.provider.plex.tv/library/par[...]
+#EXTINF:-1 channel-id="6a1610bebdf296985fd95603-6a0373bd58b72ffa94d84b6a" tvg-id="6a1610bebdf296985fd95603-6a0373bd58b72ffa94d84b6a" tvg-chno="" tvg-name="JoySauce" tvg-logo="https://provider-static.plex.tv/7/epg/channels/logos/gracenote/7aca1592fc47bf951d6dcbf77109a98d.png" group-title="Plex",JoySauce
+https://epg.provider.plex.tv/library/par[...]
+#EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-6a0373bd58b72ffa94d84b6a" tvg-id="647f8d22a2fc3fadb4721685-6a0373bd58b72ffa94d84b6a" tvg-chno="" tvg-name="JoySauce" tvg-logo="https://provider-static.plex.tv/7/epg/channels/logos/gracenote/7aca1592fc47bf951d6dcbf77109a98d.png" group-title="Plex",JoySauce
+https://epg.provider.plex.tv/library/par[...]
 #EXTINF:-1 channel-id="6a1610bebdf296985fd95603-639baa971a12420ff66ae7b1" tvg-id="6a1610bebdf296985fd95603-639baa971a12420ff66ae7b1" tvg-chno="" tvg-name="Jubao" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e14f2078-3820-466e-8b9f-41fb618a7ce6/jubao_logo_dark_-_Ali_Clausenrdx_1500x1000.png" group-title="Plex",Jubao
 https://epg.provider.plex.tv/library/par[...]
 #EXTINF:-1 channel-id="6a1610bebdf296985fd95603-5f5132da62fe160040f26b5b" tvg-id="6a1610bebdf296985fd95603-5f5132da62fe160040f26b5b" tvg-chno="" tvg-name="Judge Faith" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7d32af01-5d94-4992-809c-4dd54b7099ea/judge_faith_White.png" group-title="Plex",Judge Faith
@@ -1052,10 +1060,6 @@ https://epg.provider.plex.tv/library/par[...]
 #EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-69d57b7d629e24fac06ae529" tvg-id="647f8d22a2fc3fadb4721685-69d57b7d629e24fac06ae529" tvg-chno="" tvg-name="Kids" tvg-logo="https://provider-static.plex.tv/epg/cms/production/891c8cb8-4d1b-4393-8de0-d0e9dd53db92/ABC-kids-logo-light-mode_-_Orange_RDX.png" group-title="Plex",Kids
 https://epg.provider.plex.tv/library/par[...]
 #EXTINF:-1 channel-id="6a1610bebdf296985fd95603-5eea605574085f0040ddc797" tvg-id="6a1610bebdf296985fd95603-5eea605574085f0040ddc797" tvg-chno="" tvg-name="KidsFlix" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/kidsflix.png" group-title="Plex",KidsFlix
-https://epg.provider.plex.tv/library/par[...]
-#EXTINF:-1 channel-id="6a1610bebdf296985fd95603-656fb124cb7e8e6a9bc3f36a" tvg-id="6a1610bebdf296985fd95603-656fb124cb7e8e6a9bc3f36a" tvg-chno="" tvg-name="Kidz Bop TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ca4eaf02-b31d-4b56-8cad-1ff4601bb17b/KB_PLEX_1500x1000_Logo-Light-BG_-_James_Stowe.png" group-title="Plex",Kidz Bop TV
-https://epg.provider.plex.tv/library/par[...]
-#EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-656fb124cb7e8e6a9bc3f36a" tvg-id="647f8d22a2fc3fadb4721685-656fb124cb7e8e6a9bc3f36a" tvg-chno="" tvg-name="Kidz Bop TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ca4eaf02-b31d-4b56-8cad-1ff4601bb17b/KB_PLEX_1500x1000_Logo-Light-BG_-_James_Stowe.png" group-title="Plex",Kidz Bop TV
 https://epg.provider.plex.tv/library/par[...]
 #EXTINF:-1 channel-id="6a1610bebdf296985fd95603-6707d359da81682f2d1e683c" tvg-id="6a1610bebdf296985fd95603-6707d359da81682f2d1e683c" tvg-chno="" tvg-name="Kim's Convenience" tvg-logo="https://provider-static.plex.tv/epg/cms/production/73521d5b-09c4-4652-a121-049903035635/KimsConvenience_Color_LogoRDX.png" group-title="Plex",Kim's Convenience
 https://epg.provider.plex.tv/library/par[...]
@@ -1302,6 +1306,8 @@ https://epg.provider.plex.tv/library/par[...]
 #EXTINF:-1 channel-id="6a1610bebdf296985fd95603-61e805952502a7a6fa84d70f" tvg-id="6a1610bebdf296985fd95603-61e805952502a7a6fa84d70f" tvg-chno="" tvg-name="NFL Channel" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a7617b69-6d23-46d0-8e8e-e4ec9fa29d59/NFL_WHITE.png" group-title="Plex",NFL Channel
 https://epg.provider.plex.tv/library/par[...]
 #EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-69f4f6c2647c1d14cc38677b" tvg-id="647f8d22a2fc3fadb4721685-69f4f6c2647c1d14cc38677b" tvg-chno="" tvg-name="NFL Channel" tvg-logo="https://provider-static.plex.tv/epg/cms/production/585a58ca-c568-4bb8-bfc7-3000ac8d5fc5/NFL_WHITE.png" group-title="Plex",NFL Channel
+https://epg.provider.plex.tv/library/par[...]
+#EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-6a10994ab05301ef36a6a8e2" tvg-id="647f8d22a2fc3fadb4721685-6a10994ab05301ef36a6a8e2" tvg-chno="" tvg-name="NFL Super Bowl Champions" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ecd94149-87df-46a3-8864-545c91f2d9d1/NFLSuperBowlChampions_Logo_White_1500x1000_-_Harry_Marshall.png" group-title="Plex",NFL Super Bowl Champions
 https://epg.provider.plex.tv/library/par[...]
 #EXTINF:-1 channel-id="6a1610bebdf296985fd95603-60aeb5cd87f9b1002ce12323" tvg-id="6a1610bebdf296985fd95603-60aeb5cd87f9b1002ce12323" tvg-chno="" tvg-name="NHRA TV" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/NHRA_logo_dark.png" group-title="Plex",NHRA TV
 https://epg.provider.plex.tv/library/par[...]
@@ -1763,6 +1769,10 @@ https://epg.provider.plex.tv/library/par[...]
 https://epg.provider.plex.tv/library/par[...]
 #EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-61f04d2bb01a6e8df3f72902" tvg-id="647f8d22a2fc3fadb4721685-61f04d2bb01a6e8df3f72902" tvg-chno="" tvg-name="Swerve Combat" tvg-logo="https://provider-static.plex.tv/epg/cms/production/aa449194-1789-42d6-8a03-55ef1e991c40/PLEX_1500x1000_Logo_Dark.png" group-title="Plex",Swerve Combat
 https://epg.provider.plex.tv/library/par[...]
+#EXTINF:-1 channel-id="6a1610bebdf296985fd95603-6a109508cd23e9639dc7e94a" tvg-id="6a1610bebdf296985fd95603-6a109508cd23e9639dc7e94a" tvg-chno="" tvg-name="Swerve Women's Sports" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c5d80a41-eddf-465e-8d05-174ad28ea646/Swerve_Womens_Sports_1500X1000_For_Dark_Backgrounds_VerticalRDX.png" group-title="Plex",Swerve Women's Sports
+https://epg.provider.plex.tv/library/par[...]
+#EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-6a109508cd23e9639dc7e94a" tvg-id="647f8d22a2fc3fadb4721685-6a109508cd23e9639dc7e94a" tvg-chno="" tvg-name="Swerve Women's Sports" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c5d80a41-eddf-465e-8d05-174ad28ea646/Swerve_Womens_Sports_1500X1000_For_Dark_Backgrounds_VerticalRDX.png" group-title="Plex",Swerve Women's Sports
+https://epg.provider.plex.tv/library/par[...]
 #EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-69a202f60f8d297b3f6ac0f4" tvg-id="647f8d22a2fc3fadb4721685-69a202f60f8d297b3f6ac0f4" tvg-chno="" tvg-name="Taste" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8ce74dbc-9546-4203-b2e9-06129ee547ae/Taste_Logo_Colour_1500X1000.png" group-title="Plex",Taste
 https://epg.provider.plex.tv/library/par[...]
 #EXTINF:-1 channel-id="6a1610bebdf296985fd95603-5ef51c802ddee5003f1c0225" tvg-id="6a1610bebdf296985fd95603-5ef51c802ddee5003f1c0225" tvg-chno="" tvg-name="Tastemade" tvg-logo="https://provider-static.plex.tv/8/epg/channels/logos/gracenote/8ccf64ea199095b2d5aab71b73a7ed1c.png" group-title="Plex",Tastemade
@@ -1990,8 +2000,6 @@ https://epg.provider.plex.tv/library/par[...]
 #EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-6308f121ac9983739c8a29bd" tvg-id="647f8d22a2fc3fadb4721685-6308f121ac9983739c8a29bd" tvg-chno="" tvg-name="Top Gear" tvg-logo="https://provider-static.plex.tv/epg/cms/production/09f2921f-352e-46dd-93c3-6ab691790898/PLEX_TOP_GEAR_Logo_White_1500X1000.png" group-title="Plex",Top Gear
 https://epg.provider.plex.tv/library/par[...]
 #EXTINF:-1 channel-id="6a1610bebdf296985fd95603-63c1e64df0f132afc3afbab4" tvg-id="6a1610bebdf296985fd95603-63c1e64df0f132afc3afbab4" tvg-chno="" tvg-name="Torque Presented By History" tvg-logo="https://provider-static.plex.tv/epg/cms/production/58e9d900-596f-4be9-bb02-8e9d9b8c278d/Torque_channel_logo_4c_2250x1500_-_Laura_ConnollyRDX.png" group-title="Plex",Torque Presented By History
-https://epg.provider.plex.tv/library/par[...]
-#EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-646c0cdcfb58444e4e1e262b" tvg-id="647f8d22a2fc3fadb4721685-646c0cdcfb58444e4e1e262b" tvg-chno="" tvg-name="Total Crime" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e4652668-08bb-4fdb-abe8-16f783ec348a/TotalCrime_ChannelLevelArtwork_LogoTransparent_RDX.png" group-title="Plex",Total Crime
 https://epg.provider.plex.tv/library/par[...]
 #EXTINF:-1 channel-id="6a1610bebdf296985fd95603-6329474265c8569187176338" tvg-id="6a1610bebdf296985fd95603-6329474265c8569187176338" tvg-chno="" tvg-name="TRACE Brazuca" tvg-logo="https://provider-static.plex.tv/epg/cms/production/db23a2fc-104e-4ef8-8356-6a4d87ed1a46/trace_brazuca_dark_-_Nathan_BECKER__1_.png" group-title="Plex",TRACE Brazuca
 https://epg.provider.plex.tv/library/par[...]
