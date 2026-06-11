@@ -67,6 +67,8 @@ https://epg.provider.plex.tv/library/par[...]
 https://epg.provider.plex.tv/library/par[...]
 #EXTINF:-1 channel-id="6a1610bebdf296985fd95603-5fc705ff2f220e002d5e6bec" tvg-id="6a1610bebdf296985fd95603-5fc705ff2f220e002d5e6bec" tvg-chno="" tvg-name="All Reality We TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/654a8db7-8ea1-4b3f-8d0e-8cd49d80c5f1/AR_Rebrand_TT_Stacked_RDX.png" group-title="Plex",All Reality We TV
 https://epg.provider.plex.tv/library/par[...]
+#EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-6a2063fe51e93d77d9a65e44" tvg-id="647f8d22a2fc3fadb4721685-6a2063fe51e93d77d9a65e44" tvg-chno="" tvg-name="All Reality We TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/001158af-973c-41ad-9c40-fa3aed48298d/AR_Rebrand_TT_Stacked_RDXColor.png" group-title="Plex",All Reality We TV
+https://epg.provider.plex.tv/library/par[...]
 #EXTINF:-1 channel-id="6a1610bebdf296985fd95603-60de0520281b17002cd1d4c4" tvg-id="6a1610bebdf296985fd95603-60de0520281b17002cd1d4c4" tvg-chno="" tvg-name="All Weddings We TV" tvg-logo="https://provider-static.plex.tv/b/epg/channels/logos/gracenote/b170e1d41eabd27d6372fcc257813ff7.png" group-title="Plex",All Weddings We TV
 https://epg.provider.plex.tv/library/par[...]
 #EXTINF:-1 channel-id="6a1610bebdf296985fd95603-628bb0eafcb403aa62d2317d" tvg-id="6a1610bebdf296985fd95603-628bb0eafcb403aa62d2317d" tvg-chno="" tvg-name="ALLBLK Gems" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a77f4694-abfd-404f-9b6c-913c1f307cc6/allblkGEMS.png" group-title="Plex",ALLBLK Gems
@@ -1471,6 +1473,8 @@ https://epg.provider.plex.tv/library/par[...]
 https://epg.provider.plex.tv/library/par[...]
 #EXTINF:-1 channel-id="6a1610bebdf296985fd95603-61d735fea7b7c7f703418512" tvg-id="6a1610bebdf296985fd95603-61d735fea7b7c7f703418512" tvg-chno="" tvg-name="Portlandia" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b6397d23-f64f-4f16-bdef-d24d4dc24436/AMCN-PortlandiaIFC_Plex_logo_dark_v01.png" group-title="Plex",Portlandia
 https://epg.provider.plex.tv/library/par[...]
+#EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-6a206a3e352a41420ef767a7" tvg-id="647f8d22a2fc3fadb4721685-6a206a3e352a41420ef767a7" tvg-chno="" tvg-name="Portlandia" tvg-logo="https://provider-static.plex.tv/epg/cms/production/949f96f9-49b7-4ca8-b4a2-9f4f9aa6457d/AMCN-PortlandiaIFC_Plex_logo_dark_v01_white_color.png" group-title="Plex",Portlandia
+https://epg.provider.plex.tv/library/par[...]
 #EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-62280162c9f485cc7afe8c46" tvg-id="647f8d22a2fc3fadb4721685-62280162c9f485cc7afe8c46" tvg-chno="" tvg-name="Powder TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/103b18dc-d465-46d3-b1e6-7a5a88a5c583/PLEX_1500X1000_PNG_WHT_POWDER_TV_Logo.png" group-title="Plex",Powder TV
 https://epg.provider.plex.tv/library/par[...]
 #EXTINF:-1 channel-id="6a1610bebdf296985fd95603-644a69895b1d51b6a8d18609" tvg-id="6a1610bebdf296985fd95603-644a69895b1d51b6a8d18609" tvg-chno="" tvg-name="Power Rangers" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3d7679fb-6db0-4363-a85e-fe59abff5cf9/PWR_Logo_1500x1000_-_lucas_arechaga.png" group-title="Plex",Power Rangers
@@ -1731,6 +1735,8 @@ https://epg.provider.plex.tv/library/par[...]
 https://epg.provider.plex.tv/library/par[...]
 #EXTINF:-1 channel-id="6a1610bebdf296985fd95603-5fc705e2a2236e002d69f3ba" tvg-id="6a1610bebdf296985fd95603-5fc705e2a2236e002d69f3ba" tvg-chno="" tvg-name="Stories by AMC" tvg-logo="https://provider-static.plex.tv/d/epg/channels/logos/gracenote/dc11bbe6b65b5884a0af6702f6b61c61.png" group-title="Plex",Stories by AMC
 https://epg.provider.plex.tv/library/par[...]
+#EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-6a2073286c6354dc02aa8c97" tvg-id="647f8d22a2fc3fadb4721685-6a2073286c6354dc02aa8c97" tvg-chno="" tvg-name="Stories by AMC" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9fe25501-21e0-41be-97cb-81ce4fd17afc/Stories_ByAMC05fe66edb398fa8a4ee7debc208cf271Color.png" group-title="Plex",Stories by AMC
+https://epg.provider.plex.tv/library/par[...]
 #EXTINF:-1 channel-id="6a1610bebdf296985fd95603-6615522e50e81fa51eb0df62" tvg-id="6a1610bebdf296985fd95603-6615522e50e81fa51eb0df62" tvg-chno="" tvg-name="Strawberry Shortcake" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a74135d4-23d5-4486-befc-af04b17b733b/strawberryshortcakeSSC_plex_color_logo_-_Chelsea_BandiRDX.png" group-title="Plex",Strawberry Shortcake
 https://epg.provider.plex.tv/library/par[...]
 #EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-6615522e50e81fa51eb0df62" tvg-id="647f8d22a2fc3fadb4721685-6615522e50e81fa51eb0df62" tvg-chno="" tvg-name="Strawberry Shortcake" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a74135d4-23d5-4486-befc-af04b17b733b/strawberryshortcakeSSC_plex_color_logo_-_Chelsea_BandiRDX.png" group-title="Plex",Strawberry Shortcake
@@ -1938,6 +1944,8 @@ https://epg.provider.plex.tv/library/par[...]
 #EXTINF:-1 channel-id="6a1610bebdf296985fd95603-6848269efd17cd629e5df2ea" tvg-id="6a1610bebdf296985fd95603-6848269efd17cd629e5df2ea" tvg-chno="" tvg-name="The Walking Dead Espanol" tvg-logo="https://provider-static.plex.tv/b/epg/channels/logos/gracenote/bf46dd04dadac63dbceba97ab9d77b20.png" group-title="Plex",The Walking Dead Espanol
 https://epg.provider.plex.tv/library/par[...]
 #EXTINF:-1 channel-id="6a1610bebdf296985fd95603-5fc705ff2f220e002d5e6bce" tvg-id="6a1610bebdf296985fd95603-5fc705ff2f220e002d5e6bce" tvg-chno="" tvg-name="The Walking Dead Universe" tvg-logo="https://provider-static.plex.tv/epg/cms/production/17192c32-77cd-4da0-bc8e-e64836d08592/AMCN_TWDU_Plex_logo_dark_v01.png" group-title="Plex",The Walking Dead Universe
+https://epg.provider.plex.tv/library/par[...]
+#EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-6a206bac6c6354dc02aa8c95" tvg-id="647f8d22a2fc3fadb4721685-6a206bac6c6354dc02aa8c95" tvg-chno="" tvg-name="The Walking Dead Universe" tvg-logo="https://provider-static.plex.tv/epg/cms/production/206987e1-6423-471b-b314-b0e8d22284f5/AMCN_TWDU_Plex_logo_dark_v01.png" group-title="Plex",The Walking Dead Universe
 https://epg.provider.plex.tv/library/par[...]
 #EXTINF:-1 channel-id="6a1610bebdf296985fd95603-6623c335ed4918437ed56ec0" tvg-id="6a1610bebdf296985fd95603-6623c335ed4918437ed56ec0" tvg-chno="" tvg-name="The Wicked Tuna Channel" tvg-logo="https://provider-static.plex.tv/epg/cms/production/07609811-826b-4726-a471-1c009b77fdeb/WickedTuna_Logo_Blue_1500x1000_-_Chris_Connors.png" group-title="Plex",The Wicked Tuna Channel
 https://epg.provider.plex.tv/library/par[...]
