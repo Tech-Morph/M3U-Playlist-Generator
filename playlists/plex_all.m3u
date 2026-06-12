@@ -1137,6 +1137,8 @@ https://epg.provider.plex.tv/library/par[...]
 https://epg.provider.plex.tv/library/par[...]
 #EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-5ef4e1b40d9ad000423c4430" tvg-id="647f8d22a2fc3fadb4721685-5ef4e1b40d9ad000423c4430" tvg-chno="" tvg-name="Maverick Black Cinema" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/maverick_maverick_black_cinema_2.png" group-title="Plex",Maverick Black Cinema
 https://epg.provider.plex.tv/library/par[...]
+#EXTINF:-1 channel-id="6a1610bebdf296985fd95603-64275805efc65caa7e9514d6" tvg-id="6a1610bebdf296985fd95603-64275805efc65caa7e9514d6" tvg-chno="" tvg-name="Mayday: Air Disaster" tvg-logo="https://provider-static.plex.tv/epg/cms/production/56055a21-e529-4b54-8f9e-42cf8fc41bc5/MaydayAirDisaster_Logo_FullColour_1500x1000_-_Patrick_LeeRED.png" group-title="Plex",Mayday: Air Disaster
+https://epg.provider.plex.tv/library/par[...]
 #EXTINF:-1 channel-id="6a1610bebdf296985fd95603-6515fd4f2ff655e77635c628" tvg-id="6a1610bebdf296985fd95603-6515fd4f2ff655e77635c628" tvg-chno="" tvg-name="McLeods Daughters" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c2eba068-98bd-4070-a669-7573db4224a4/McLeodsDaughters_Logo_Light_1500x1000_-_Harry_Marshall.png" group-title="Plex",McLeods Daughters
 https://epg.provider.plex.tv/library/par[...]
 #EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-6515fd4f2ff655e77635c628" tvg-id="647f8d22a2fc3fadb4721685-6515fd4f2ff655e77635c628" tvg-chno="" tvg-name="McLeods Daughters" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c2eba068-98bd-4070-a669-7573db4224a4/McLeodsDaughters_Logo_Light_1500x1000_-_Harry_Marshall.png" group-title="Plex",McLeods Daughters
@@ -1540,8 +1542,6 @@ https://epg.provider.plex.tv/library/par[...]
 #EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-636d9d2d4ea1109a7d205a70" tvg-id="647f8d22a2fc3fadb4721685-636d9d2d4ea1109a7d205a70" tvg-chno="" tvg-name="Real Crime" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b0d345b3-05d6-41d2-82b1-0bfdd351312a/Real_Crime_Logo_White_-_Simon_Tuquabordx2.png" group-title="Plex",Real Crime
 https://epg.provider.plex.tv/library/par[...]
 #EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-68893b831b1a8359c63cf6ee" tvg-id="647f8d22a2fc3fadb4721685-68893b831b1a8359c63cf6ee" tvg-chno="" tvg-name="Real Crime Uncovered" tvg-logo="https://provider-static.plex.tv/epg/cms/production/bf91965d-eded-47f6-8594-0a9d02e6cffc/RealCrimeUncovered_Logo_White_Denise_O_KeeffeWHITE.png" group-title="Plex",Real Crime Uncovered
-https://epg.provider.plex.tv/library/par[...]
-#EXTINF:-1 channel-id="6a1610bebdf296985fd95603-64275805efc65caa7e9514d6" tvg-id="6a1610bebdf296985fd95603-64275805efc65caa7e9514d6" tvg-chno="" tvg-name="Real Disaster Channel" tvg-logo="https://provider-static.plex.tv/epg/cms/production/fb16500b-28af-4fc6-8c77-b76dd98b8b56/Logo_Real_Disaster_1500_x_1000_dark_-_Matt_Mattysiak.png" group-title="Plex",Real Disaster Channel
 https://epg.provider.plex.tv/library/par[...]
 #EXTINF:-1 channel-id="6a1610bebdf296985fd95603-645f840b361156ab4214e28d" tvg-id="6a1610bebdf296985fd95603-645f840b361156ab4214e28d" tvg-chno="" tvg-name="Real Housewives Vault" tvg-logo="https://provider-static.plex.tv/epg/cms/production/72d43435-ea35-4e77-bde5-c6b903d3a513/real-housewives-vault-fclogo-72-dpi-1500-x-1000-RDX_COLOR_WHITE.png" group-title="Plex",Real Housewives Vault
 https://epg.provider.plex.tv/library/par[...]
