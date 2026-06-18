@@ -455,9 +455,9 @@ https://epg.provider.plex.tv/library/par[...]
 https://epg.provider.plex.tv/library/par[...]
 #EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-68c98e7460586565cc56baab" tvg-id="647f8d22a2fc3fadb4721685-68c98e7460586565cc56baab" tvg-chno="" tvg-name="Crime Beat TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6d933fc7-172f-463f-a4f4-4d08bca2694a/CrimeBeatTV_TT_1500x1000RDX_White_Letters.png" group-title="Plex",Crime Beat TV
 https://epg.provider.plex.tv/library/par[...]
-#EXTINF:-1 channel-id="6a1610bebdf296985fd95603-6615360a8423b8d7e61a099c" tvg-id="6a1610bebdf296985fd95603-6615360a8423b8d7e61a099c" tvg-chno="" tvg-name="Crime Scene TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a08d8486-4874-42ed-b3c3-a2e5077d7f22/Crime_SceneTV_RDX_WHITE_GOOD.png" group-title="Plex",Crime Scene TV
+#EXTINF:-1 channel-id="6a1610bebdf296985fd95603-6615360a8423b8d7e61a099c" tvg-id="6a1610bebdf296985fd95603-6615360a8423b8d7e61a099c" tvg-chno="" tvg-name="Crime Scene TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/15c628ca-8ef6-4074-873c-8f491ed51f55/crime_scene_tv_white.png" group-title="Plex",Crime Scene TV
 https://epg.provider.plex.tv/library/par[...]
-#EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-6615360a8423b8d7e61a099c" tvg-id="647f8d22a2fc3fadb4721685-6615360a8423b8d7e61a099c" tvg-chno="" tvg-name="Crime Scene TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a08d8486-4874-42ed-b3c3-a2e5077d7f22/Crime_SceneTV_RDX_WHITE_GOOD.png" group-title="Plex",Crime Scene TV
+#EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-6615360a8423b8d7e61a099c" tvg-id="647f8d22a2fc3fadb4721685-6615360a8423b8d7e61a099c" tvg-chno="" tvg-name="Crime Scene TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/15c628ca-8ef6-4074-873c-8f491ed51f55/crime_scene_tv_white.png" group-title="Plex",Crime Scene TV
 https://epg.provider.plex.tv/library/par[...]
 #EXTINF:-1 channel-id="6a1610bebdf296985fd95603-66a2bfe594b6a49cb5054d75" tvg-id="6a1610bebdf296985fd95603-66a2bfe594b6a49cb5054d75" tvg-chno="" tvg-name="Crime Scenes" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0d2a0e73-1ddb-4648-81e9-c333b714aef3/CrimeScenes_Logo_Dark_1500x1000.png" group-title="Plex",Crime Scenes
 https://epg.provider.plex.tv/library/par[...]
@@ -844,8 +844,6 @@ https://epg.provider.plex.tv/library/par[...]
 #EXTINF:-1 channel-id="6a1610bebdf296985fd95603-6615360a8423b8d7e61a099b" tvg-id="6a1610bebdf296985fd95603-6615360a8423b8d7e61a099b" tvg-chno="" tvg-name="Go Wild" tvg-logo="https://provider-static.plex.tv/epg/cms/production/616ccdb3-bc16-4546-bfda-3102d114be5a/Go_Wild_Tilef0c5e75034912cf50d05c24ee0530aa8RDXFINAL.png" group-title="Plex",Go Wild
 https://epg.provider.plex.tv/library/par[...]
 #EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-6615360a8423b8d7e61a099b" tvg-id="647f8d22a2fc3fadb4721685-6615360a8423b8d7e61a099b" tvg-chno="" tvg-name="Go Wild" tvg-logo="https://provider-static.plex.tv/epg/cms/production/616ccdb3-bc16-4546-bfda-3102d114be5a/Go_Wild_Tilef0c5e75034912cf50d05c24ee0530aa8RDXFINAL.png" group-title="Plex",Go Wild
-https://epg.provider.plex.tv/library/par[...]
-#EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-666e16f9d91d13cb4c8cbb69" tvg-id="647f8d22a2fc3fadb4721685-666e16f9d91d13cb4c8cbb69" tvg-chno="" tvg-name="Go Xplorer" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b4efc8da-e38b-4b1f-9d2d-fcff937d1784/channel_logo_1500x1000_light.png.png" group-title="Plex",Go Xplorer
 https://epg.provider.plex.tv/library/par[...]
 #EXTINF:-1 channel-id="6a1610bebdf296985fd95603-5fc706038aba71002d8b7c8e" tvg-id="6a1610bebdf296985fd95603-5fc706038aba71002d8b7c8e" tvg-chno="" tvg-name="GOLFPASS" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8639a81b-d79c-4a70-8034-26edfb0e13bc/golfpass-fclogo-72-dpi-1500-x-1000-3-2-channel-logo-dark-plex-1.png" group-title="Plex",GOLFPASS
 https://epg.provider.plex.tv/library/par[...]
@@ -2278,6 +2276,8 @@ https://epg.provider.plex.tv/library/par[...]
 #EXTINF:-1 channel-id="6a1610bebdf296985fd95603-68800a594033a6a442ad9237" tvg-id="6a1610bebdf296985fd95603-68800a594033a6a442ad9237" tvg-chno="" tvg-name="XITE Siempre Latino" tvg-logo="https://provider-static.plex.tv/epg/cms/production/35a1d7e4-caa3-477a-b813-90d23a756a16/xitesiemprelatino_logo_light_-_Arlette_FiranRDX.png" group-title="Plex",XITE Siempre Latino
 https://epg.provider.plex.tv/library/par[...]
 #EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-68800a594033a6a442ad9237" tvg-id="647f8d22a2fc3fadb4721685-68800a594033a6a442ad9237" tvg-chno="" tvg-name="XITE Siempre Latino" tvg-logo="https://provider-static.plex.tv/epg/cms/production/35a1d7e4-caa3-477a-b813-90d23a756a16/xitesiemprelatino_logo_light_-_Arlette_FiranRDX.png" group-title="Plex",XITE Siempre Latino
+https://epg.provider.plex.tv/library/par[...]
+#EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-666e16f9d91d13cb4c8cbb69" tvg-id="647f8d22a2fc3fadb4721685-666e16f9d91d13cb4c8cbb69" tvg-chno="" tvg-name="Xtreme Caution" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3b91868f-69e0-4451-b813-1dda56cbeee8/xtreme_caution_white.png" group-title="Plex",Xtreme Caution
 https://epg.provider.plex.tv/library/par[...]
 #EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-69b16bdf9ce2ee93be911d41" tvg-id="647f8d22a2fc3fadb4721685-69b16bdf9ce2ee93be911d41" tvg-chno="" tvg-name="Xtreme Outdoor" tvg-logo="https://provider-static.plex.tv/epg/cms/production/63aea1f7-d0c9-402d-be90-a81a49d3d54a/XtremeOutdoor_channel_logo_4c_1500x1000.png" group-title="Plex",Xtreme Outdoor
 https://epg.provider.plex.tv/library/par[...]
