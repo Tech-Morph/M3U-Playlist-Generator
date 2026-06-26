@@ -279,8 +279,6 @@ https://epg.provider.plex.tv/library/par[...]
 https://epg.provider.plex.tv/library/par[...]
 #EXTINF:-1 channel-id="6a1610bebdf296985fd95603-666e15a3ce73ed6023b55a0f" tvg-id="6a1610bebdf296985fd95603-666e15a3ce73ed6023b55a0f" tvg-chno="" tvg-name="Buen Viaje" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d468b64b-c6a3-427f-a5c0-331bb6478407/channel_logo_1500x1000_light.png.png" group-title="Plex",Buen Viaje
 https://epg.provider.plex.tv/library/par[...]
-#EXTINF:-1 channel-id="6a1610bebdf296985fd95603-67367a2d9564224797d5b59c" tvg-id="6a1610bebdf296985fd95603-67367a2d9564224797d5b59c" tvg-chno="" tvg-name="Butaca TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ebdc98b6-adde-4e50-b1e9-ab7b3bfecd23/Butaca_Tv_pack_1500X1000_RDX.png" group-title="Plex",Butaca TV
-https://epg.provider.plex.tv/library/par[...]
 #EXTINF:-1 channel-id="6a1610bebdf296985fd95603-66a2d71b0b91165254efdb40" tvg-id="6a1610bebdf296985fd95603-66a2d71b0b91165254efdb40" tvg-chno="" tvg-name="BUZZR" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6cdc7595-c9e5-4efd-9398-508c40e9d0f7/BUZZR_Logo_Color_1500x1000.png" group-title="Plex",BUZZR
 https://epg.provider.plex.tv/library/par[...]
 #EXTINF:-1 channel-id="6a1610bebdf296985fd95603-65b1568052aa31b8f64da064" tvg-id="6a1610bebdf296985fd95603-65b1568052aa31b8f64da064" tvg-chno="" tvg-name="C4 en Alerta" tvg-logo="https://provider-static.plex.tv/epg/cms/production/51402fbd-48ad-4307-a1be-a60c692684f6/Logotipo_C4_En_Alerta_1500x1000_for_dark_backgrounds_-_James_Stowe.png" group-title="Plex",C4 en Alerta
@@ -742,6 +740,8 @@ https://epg.provider.plex.tv/library/par[...]
 #EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-62f15810a3ffe928ef806c75" tvg-id="647f8d22a2fc3fadb4721685-62f15810a3ffe928ef806c75" tvg-chno="" tvg-name="Flashback 70s" tvg-logo="https://provider-static.plex.tv/epg/cms/production/32c9c7ca-8544-4434-92c5-9a5dd9577746/flashback_70srdx.png" group-title="Plex",Flashback 70s
 https://epg.provider.plex.tv/library/par[...]
 #EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-671bf04b128bc4121f80aef1" tvg-id="647f8d22a2fc3fadb4721685-671bf04b128bc4121f80aef1" tvg-chno="" tvg-name="Flipping Nation" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2e8862de-902d-4927-9b31-85d925816bce/Flipping_Nation_Logo_COLOR_RDX.png" group-title="Plex",Flipping Nation
+https://epg.provider.plex.tv/library/par[...]
+#EXTINF:-1 channel-id="6a1610bebdf296985fd95603-6a3b0dab6766376fae696fa6" tvg-id="6a1610bebdf296985fd95603-6a3b0dab6766376fae696fa6" tvg-chno="" tvg-name="Fluffy TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/04475a86-bf28-4cd0-9197-6b87ea4fecfc/Fluffy_TV_Logo_Color_1500x1000.png" group-title="Plex",Fluffy TV
 https://epg.provider.plex.tv/library/par[...]
 #EXTINF:-1 channel-id="6a1610bebdf296985fd95603-6449369f243fbe342a9c0b4d" tvg-id="6a1610bebdf296985fd95603-6449369f243fbe342a9c0b4d" tvg-chno="" tvg-name="Forensic Files" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3f79b58a-d938-4555-bed6-f64107110e63/FilmRise_ForensicFiles_Color_Logo.png" group-title="Plex",Forensic Files
 https://epg.provider.plex.tv/library/par[...]
@@ -1367,8 +1367,6 @@ https://epg.provider.plex.tv/library/par[...]
 https://epg.provider.plex.tv/library/par[...]
 #EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-6578e7b5eef129f30fb38df7" tvg-id="647f8d22a2fc3fadb4721685-6578e7b5eef129f30fb38df7" tvg-chno="" tvg-name="Operation Repo" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9ea6fcd5-6337-4609-8b7c-290b0eb74c65/Oprepo_logo_-_James_PatrickRDX.png" group-title="Plex",Operation Repo
 https://epg.provider.plex.tv/library/par[...]
-#EXTINF:-1 channel-id="6a1610bebdf296985fd95603-64f0db77c2bc9b9001d46eaa" tvg-id="6a1610bebdf296985fd95603-64f0db77c2bc9b9001d46eaa" tvg-chno="" tvg-name="Oro TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ecf0c463-9ff8-4d9d-b756-0e9913c8ed60/Oro_TV_1500x1000-_For_dark_backgrounds.png" group-title="Plex",Oro TV
-https://epg.provider.plex.tv/library/par[...]
 #EXTINF:-1 channel-id="6a1610bebdf296985fd95603-641496bf238e21f260e7844a" tvg-id="6a1610bebdf296985fd95603-641496bf238e21f260e7844a" tvg-chno="" tvg-name="OuterSphere by Lionsgate" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f162df8b-6532-43fe-9202-83a658090651/OuterSphere_1500x1000_Logo_Dark_-_Chris_Connors__1_.png" group-title="Plex",OuterSphere by Lionsgate
 https://epg.provider.plex.tv/library/par[...]
 #EXTINF:-1 channel-id="6a1610bebdf296985fd95603-64aed1e9c6085b5faf20ee1f" tvg-id="6a1610bebdf296985fd95603-64aed1e9c6085b5faf20ee1f" tvg-chno="" tvg-name="OUTFLIX MOVIES" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f95fc27d-0f98-4097-bce5-1ea35a0ce0f0/OUTflix-MOVIES_Logo_1500x1000.png" group-title="Plex",OUTFLIX MOVIES
@@ -1586,8 +1584,6 @@ https://epg.provider.plex.tv/library/par[...]
 #EXTINF:-1 channel-id="6a1610bebdf296985fd95603-5f91c4ea96a391002df9a664" tvg-id="6a1610bebdf296985fd95603-5f91c4ea96a391002df9a664" tvg-chno="" tvg-name="Ryan and Friends" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d5a022d7-5e4e-45fd-8f2f-8b900b233cc3/RAF_LOGO_FINALArtboard_1_1500x1000.png" group-title="Plex",Ryan and Friends
 https://epg.provider.plex.tv/library/par[...]
 #EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-5f91c4ea96a391002df9a664" tvg-id="647f8d22a2fc3fadb4721685-5f91c4ea96a391002df9a664" tvg-chno="" tvg-name="Ryan and Friends" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d5a022d7-5e4e-45fd-8f2f-8b900b233cc3/RAF_LOGO_FINALArtboard_1_1500x1000.png" group-title="Plex",Ryan and Friends
-https://epg.provider.plex.tv/library/par[...]
-#EXTINF:-1 channel-id="6a1610bebdf296985fd95603-64f0d9a7c2bc9b9001d46ea6" tvg-id="6a1610bebdf296985fd95603-64f0d9a7c2bc9b9001d46ea6" tvg-chno="" tvg-name="Saborear TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3b0e8cad-4177-4427-90c2-dad12ed8e5c5/Saboreartv_1500x1000-_For_light_backgrounds.png" group-title="Plex",Saborear TV
 https://epg.provider.plex.tv/library/par[...]
 #EXTINF:-1 channel-id="6a1610bebdf296985fd95603-66a1ae9e77649467da169f0e" tvg-id="6a1610bebdf296985fd95603-66a1ae9e77649467da169f0e" tvg-chno="" tvg-name="Say Yes to the Dress" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9298385b-b248-4e3b-87ee-fba261db99f9/SYTTD_Logo_Dark_1500x1000.png" group-title="Plex",Say Yes to the Dress
 https://epg.provider.plex.tv/library/par[...]
