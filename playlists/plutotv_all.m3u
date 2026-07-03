@@ -369,6 +369,8 @@ https://jmp2.uk/plu-664fd48894d5580008e45e7c.m3u8
 https://jmp2.uk/plu-5bee1a7359ee03633e780238.m3u8
 #EXTINF:-1 channel-id="62e951258a26d40007b3034c-ca" tvg-id="62e951258a26d40007b3034c" tvg-chno="1210" tvg-name="Dora TV" tvg-logo="https://images.pluto.tv/channels/62e951258a26d40007b3034c/colorLogoPNG.png" group-title="Canada",Dora TV
 https://jmp2.uk/plu-62e951258a26d40007b3034c.m3u8
+#EXTINF:-1 channel-id="6a2b0f2509705ebdf781231d-us" tvg-id="6a2b0f2509705ebdf781231d" tvg-chno="799" tvg-name="Dr. Quinn, Medicine Woman" tvg-logo="https://images.pluto.tv/channels/6a2b0f2509705ebdf781231d/colorLogoPNG_1782946772357.png" group-title="United States",Dr. Quinn Medicine Woman
+https://jmp2.uk/plu-6a2b0f2509705ebdf781231d.m3u8
 #EXTINF:-1 channel-id="6540fe6fbfbaec0008a583ae-ca" tvg-id="6540fe6fbfbaec0008a583ae" tvg-chno="715" tvg-name="Duck Dynasty" tvg-logo="https://images.pluto.tv/channels/6540fe6fbfbaec0008a583ae/colorLogoPNG.png" group-title="Canada",Duck Dynasty
 https://jmp2.uk/plu-6540fe6fbfbaec0008a583ae.m3u8
 #EXTINF:-1 channel-id="64d1606b4c5ed80008e3b8b9-us" tvg-id="64d1606b4c5ed80008e3b8b9" tvg-chno="630" tvg-name="Dynasty" tvg-logo="https://images.pluto.tv/channels/64d1606b4c5ed80008e3b8b9/colorLogoPNG_1731835571308.png" group-title="United States",Dynasty
@@ -579,7 +581,7 @@ https://jmp2.uk/plu-63335b193583440007c859fb.m3u8
 https://jmp2.uk/plu-5eb301b7395671000780d100.m3u8
 #EXTINF:-1 channel-id="60493283ffc52f000710edae-us" tvg-id="60493283ffc52f000710edae" tvg-chno="3750" tvg-name="Little Angel's Playroom en Español" tvg-logo="https://images.pluto.tv/channels/60493283ffc52f000710edae/colorLogoPNG.png" group-title="United States",Little Angel's Playroom en Español
 https://jmp2.uk/plu-60493283ffc52f000710edae.m3u8
-#EXTINF:-1 channel-id="654933ac986ad20008a1f406-us" tvg-id="654933ac986ad20008a1f406" tvg-chno="640" tvg-name="Little House on the Prairie" tvg-logo="https://images.pluto.tv/channels/654933ac986ad20008a1f406/colorLogoPNG.png" group-title="United States",Little House on the Prairie
+#EXTINF:-1 channel-id="654933ac986ad20008a1f406-us" tvg-id="654933ac986ad20008a1f406" tvg-chno="798" tvg-name="Little House on the Prairie" tvg-logo="https://images.pluto.tv/channels/654933ac986ad20008a1f406/colorLogoPNG.png" group-title="United States",Little House on the Prairie
 https://jmp2.uk/plu-654933ac986ad20008a1f406.m3u8
 #EXTINF:-1 channel-id="51c75f7bb6f26ba1cd00002f-us" tvg-id="51c75f7bb6f26ba1cd00002f" tvg-chno="3730" tvg-name="Little Stars Universe" tvg-logo="https://images.pluto.tv/channels/51c75f7bb6f26ba1cd00002f/colorLogoPNG.png" group-title="United States",Little Stars Universe
 https://jmp2.uk/plu-51c75f7bb6f26ba1cd00002f.m3u8
