@@ -597,6 +597,8 @@ https://epg.provider.plex.tv/library/par[...]
 https://epg.provider.plex.tv/library/par[...]
 #EXTINF:-1 channel-id="6a1610bebdf296985fd95603-6335ad3170dc93c71ab5ce09" tvg-id="6a1610bebdf296985fd95603-6335ad3170dc93c71ab5ce09" tvg-chno="" tvg-name="El Rey Rebel" tvg-logo="https://provider-static.plex.tv/epg/cms/production/34e6bb9d-70af-4210-a67e-d07a4c53b0dd/El_Rey_Rebel_Plex_Logo_DarkBG_1500x1000.png" group-title="Plex",El Rey Rebel
 https://epg.provider.plex.tv/library/par[...]
+#EXTINF:-1 channel-id="6a1610bebdf296985fd95603-6478acb5c83f56da796f1670" tvg-id="6a1610bebdf296985fd95603-6478acb5c83f56da796f1670" tvg-chno="" tvg-name="El Señor de los Cielos" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e927f0f5-a833-4000-b9b9-5a408aab4cda/ElSenorDeLosCielos_logo_1500x1000_light.png.png" group-title="Plex",El Señor de los Cielos
+https://epg.provider.plex.tv/library/par[...]
 #EXTINF:-1 channel-id="6a1610bebdf296985fd95603-5f170d61b898490041b49360" tvg-id="6a1610bebdf296985fd95603-5f170d61b898490041b49360" tvg-chno="" tvg-name="Electric Now" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7685b801-1ef6-4098-947a-4ccada912e33/Electric_Now_Logo_For_Dark_Background_EN.png" group-title="Plex",Electric Now
 https://epg.provider.plex.tv/library/par[...]
 #EXTINF:-1 channel-id="6a1610bebdf296985fd95603-6434540bf43c8cfbfdc6e600" tvg-id="6a1610bebdf296985fd95603-6434540bf43c8cfbfdc6e600" tvg-chno="" tvg-name="ElectricNOW en Español" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2ba8f950-5d83-4adb-8fd5-e0bf4426de43/ENow_ES_Logo_-_Dark_Backgrounds_1500x1000RDX.png" group-title="Plex",ElectricNOW en Español
@@ -1780,8 +1782,6 @@ https://epg.provider.plex.tv/library/par[...]
 #EXTINF:-1 channel-id="6a1610bebdf296985fd95603-6874409e46d1d8d8348e6b7e" tvg-id="6a1610bebdf296985fd95603-6874409e46d1d8d8348e6b7e" tvg-chno="" tvg-name="Teen Wolf by MGM" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0f4395c4-94b6-48e0-8c24-2a61850211d2/TeenWolf_logo_Attribution_-_Carl_HoffelderRdx.png" group-title="Plex",Teen Wolf by MGM
 https://epg.provider.plex.tv/library/par[...]
 #EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-6874409e46d1d8d8348e6b7e" tvg-id="647f8d22a2fc3fadb4721685-6874409e46d1d8d8348e6b7e" tvg-chno="" tvg-name="Teen Wolf by MGM" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0f4395c4-94b6-48e0-8c24-2a61850211d2/TeenWolf_logo_Attribution_-_Carl_HoffelderRdx.png" group-title="Plex",Teen Wolf by MGM
-https://epg.provider.plex.tv/library/par[...]
-#EXTINF:-1 channel-id="6a1610bebdf296985fd95603-6478acb5c83f56da796f1670" tvg-id="6a1610bebdf296985fd95603-6478acb5c83f56da796f1670" tvg-chno="" tvg-name="Telemundo Acción" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5425aa06-a551-4773-9896-184289bd5311/telemundo-acci-n-fclogo-72-dpi-1500-x-1000-3-2-channel-logo-dark-plex-1.png" group-title="Plex",Telemundo Acción
 https://epg.provider.plex.tv/library/par[...]
 #EXTINF:-1 channel-id="6a1610bebdf296985fd95603-6478acb5c83f56da796f166f" tvg-id="6a1610bebdf296985fd95603-6478acb5c83f56da796f166f" tvg-chno="" tvg-name="Telemundo al Dia" tvg-logo="https://provider-static.plex.tv/1/epg/channels/logos/gracenote/183209ec7041b4645921574cffd096f4.png" group-title="Plex",Telemundo al Dia
 https://epg.provider.plex.tv/library/par[...]
